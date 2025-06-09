@@ -1,6 +1,5 @@
 //Practical:-1
 //Write a program to Implement Stack operations using arrays. 
-//top,push,pop,empty,size
 
 /*
 ===Expected Output===
@@ -12,6 +11,7 @@ Top element of stack: 1
 Size of Stack after removing top: 1
 */
 
+//top,push,pop,empty,size
 #include<iostream>
 #include<stack>
 
